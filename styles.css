@@ -1,0 +1,46 @@
+font-size{
+    width:25px;   
+
+}
+
+    #Q2{
+display:none;    
+    }
+    #Q3{
+display:none;    
+    }
+    #Q4{
+display:none;    
+    }
+    #Q5{
+display:none;    
+    }
+    #Q6{
+display:none;    
+    }
+     #FA1{
+display:none;    
+    }
+     #FA2{
+display:none;    
+    }
+     #FA3{
+display:none;    
+    }
+        #FA4{
+display:none;    
+    }
+            #FA5{
+display:none;    
+    }
+body{
+    background-image:url("https://i.scdn.co/image/bcffe4ddf0dd16d96d89412e9e60df307c7ce483");  
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:red;   
+    font-size:45px;
+}
+button{
+    background-color:#DC143C;   
+    font-size:45px;
+}
